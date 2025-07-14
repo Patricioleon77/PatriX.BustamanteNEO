@@ -33,7 +33,7 @@ _Informe completo de vulnerabilidades en aplicación PHP, con recomendaciones y 
 
 ## 📫 Cómo contactarme
 
-- 📧 Email: patricio.enrique.tech@gmail.com
+- 📧 Email: patricio.bustamantef@correoaiep.cl
 - 💼 LinkedIn: [linkedin.com/in/patricio-bustamante-616bba374](https://www.linkedin.com/in/patricio-bustamante-616bba374/)
 - 🌐 Portafolio Web: próximamente en GitHub Pages
 
