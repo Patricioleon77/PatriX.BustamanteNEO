@@ -18,9 +18,6 @@
 ### 📋 Sistema de Gestión para Ds Gráfica Gálvez
 _Proyecto académico basado en la metodología Scrum. Control de tareas, solicitudes web y generación de informes._
 
-### 🕶️ App estilo Matrix (Android)
-_App móvil con estética inspirada en Neo. Registro, autenticación y sistema de misiones personalizadas._
-
 ### 🛡️ Auditoría con SonarQube
 _Informe completo de vulnerabilidades en aplicación PHP, con recomendaciones y cumplimiento de OWASP Top 10._
 
